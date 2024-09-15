@@ -7,4 +7,4 @@ About Natural language processors programming Lab Codes
 4. LAB 04: [WORD REPRESENTATION.](https://github.com/DEEPAK-RAMGIRI/NLP-Natural-Language-Processor-/blob/main/LAB_004.ipynb)
 5. LAB 05: [WORD EMBEDDING,VISUALIZING WORD EMBEDDINGS USING PCA.](https://github.com/DEEPAK-RAMGIRI/NLP-Natural-Language-Processor-/blob/main/LAB_005.ipynb)
 6. LAB 06: [SPACY MODEL FOR LINGUISTIC STRUCTURE AND DEPENDENCY PARSING.](https://github.com/DEEPAK-RAMGIRI/NLP-Natural-Language-Processor-/blob/main/LAB_006.ipynb)
-7. LAB 07:[HMM](https://github.com/DEEPAK-RAMGIRI/NLP-Natural-Language-Processor-/blob/main/LAB_007.ipynb)
+7. LAB 07: [HMM](https://github.com/DEEPAK-RAMGIRI/NLP-Natural-Language-Processor-/blob/main/LAB_007.ipynb)
